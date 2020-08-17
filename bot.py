@@ -11,9 +11,9 @@ import os,json
 import traceback
 
 # Constants.
-ADMIN_TELEGRAM_ID = 398822459
+ADMIN_TELEGRAM_ID = 0 # Admin's ID in telegram
 
-UPDATER_ID = '1181338895:AAH6E1GyQr_oJCQ__s_FAujAM62PpTp9jCs'
+UPDATER_ID = ''
 
 MAX_DB_CONNECT_ATTEMPTS = 3
 
